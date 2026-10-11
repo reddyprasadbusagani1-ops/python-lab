@@ -1,28 +1,57 @@
-# Python Lab — Unit 5
 
-This folder contains Python lab programs 24–30.
+# Python Lab Programs
 
-## Programs
-24. Read and identify a complex JSON object — `24_json_complex_object.py`
-25. Create a NumPy array — `25_numpy_array.py`
-26. Display NumPy array properties — `26_numpy_properties.py`
-27. Demonstrate NumPy indexing — `27_numpy_indexing.py`
-28. Perform NumPy operations — `28_numpy_operations.py`
-29. Create and filter a Pandas DataFrame — `29_pandas_dataframe.py`
-30. Create scatter and line plots using Matplotlib — `30_matplotlib_plot.py`
+A collection of 30 Python lab programs organized into five units for B.Tech Artificial Intelligence and Data Science students.
 
-## Requirements
-Install the required packages with:
+## Units and Programs
+
+| Unit | Topics | Programs |
+|---|---|---:|
+| Unit-1 | Python basics, operators, numbers | 6 |
+| Unit-2 | Functions, strings, lists | 6 |
+| Unit-3 | Tuples, dictionaries | 5 |
+| Unit-4 | File handling, arrays, matrices, OOP | 6 |
+| Unit-5 | JSON, NumPy, Pandas, Matplotlib | 7 |
+
+## Technologies Used
+
+- Python 3
+- NumPy
+- Pandas
+- Matplotlib
+
+## Installation
+
+Install the required Python packages:
 
 ```bash
-python -m pip install numpy pandas matplotlib
+python -m pip install -r requirements.txt
 ```
 
-## Run
-Use Python 3. For example:
+## How to Run
+
+Open the required unit folder, then run a program. For example:
 
 ```bash
-python 24_json_complex_object.py
+python 01_largest_of_three.py
 ```
 
-Program 24 asks for a JSON string. Programs 25–30 use the packages listed above.
+Run the command from inside the folder containing the program.
+
+## Project Structure
+
+```text
+python-lab/
+├── Unit-1/
+├── Unit-2/
+├── Unit-3/
+├── Unit-4/
+│   └── input.txt
+├── Unit-5/
+├── README.md
+└── requirements.txt
+```
+
+## Purpose
+
+This repository supports Python programming practice, lab preparation, and revision of core programming concepts.

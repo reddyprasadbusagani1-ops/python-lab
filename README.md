@@ -1,21 +1,12 @@
-# Python Lab — Unit 3
+# Python Lab — Unit 4
 
-This folder contains the Unit 3 Python lab programs (Programs 13–17).
+Programs 18–23:
+18. Sort words from one file into another
+19. Print each file line in reverse order
+20. Count characters, words, and lines
+21. Array operations: append, insert, reverse
+22. Matrix addition, transpose, and multiplication
+23. Shape classes using inheritance and polymorphism
 
-## Programs
-
-13. Create and concatenate tuples — `13_tuples.py`
-14. Count vowels without control flow — `14_count_vowels.py`
-15. Check whether a key exists in a dictionary — `15_dictionary_key.py`
-16. Add a new key-value pair to a dictionary — `16_add_dictionary_item.py`
-17. Sum all dictionary items — `17_dictionary_sum.py`
-
-## How to run
-
-Open a terminal in this folder and run a program with Python, for example:
-
-```bash
-python 13_tuples.py
-```
-
-Programs 14–16 ask for user input. Use Python 3.
+Use Python 3. Example: `python 18_sort_file_words.py`.
+Programs 18–20 need `input.txt` in the current working directory. Program 18 creates `output.txt`.

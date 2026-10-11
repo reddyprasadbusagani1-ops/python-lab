@@ -1,32 +1,11 @@
-# Python Lab - Unit 1
+# Unit 2 — Functions, Strings, and Lists
 
-This folder contains the Python programs from Unit 1.
+Programs 07–12:
+- 07: Function with multiple return values
+- 08: Function using default arguments
+- 09: String length without using a length function
+- 10: Check whether a substring is present
+- 11: List addition, insertion, and slicing
+- 12: Five built-in functions on a list
 
-## Programs
-
-| No. | Program |
-|---|---|
-| 01 | Largest among three numbers |
-| 02 | Prime numbers within an interval |
-| 03 | Swap two numbers |
-| 04 | Python operators |
-| 05 | Complex numbers |
-| 06 | Multiplication table |
-
-## How to Run
-
-Open a terminal in this folder and run:
-
-```bash
-python 01_largest_of_three.py
-```
-
-Replace the filename with the program you want to execute.
-
-## Unit 1 Topics
-
-- Conditional statements
-- Loops
-- Python operators
-- Complex numbers
-- Basic input and output
+Run a program from this folder with `python filename.py`.

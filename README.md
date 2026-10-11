@@ -1,12 +1,28 @@
-# Python Lab — Unit 4
+# Python Lab — Unit 5
 
-Programs 18–23:
-18. Sort words from one file into another
-19. Print each file line in reverse order
-20. Count characters, words, and lines
-21. Array operations: append, insert, reverse
-22. Matrix addition, transpose, and multiplication
-23. Shape classes using inheritance and polymorphism
+This folder contains Python lab programs 24–30.
 
-Use Python 3. Example: `python 18_sort_file_words.py`.
-Programs 18–20 need `input.txt` in the current working directory. Program 18 creates `output.txt`.
+## Programs
+24. Read and identify a complex JSON object — `24_json_complex_object.py`
+25. Create a NumPy array — `25_numpy_array.py`
+26. Display NumPy array properties — `26_numpy_properties.py`
+27. Demonstrate NumPy indexing — `27_numpy_indexing.py`
+28. Perform NumPy operations — `28_numpy_operations.py`
+29. Create and filter a Pandas DataFrame — `29_pandas_dataframe.py`
+30. Create scatter and line plots using Matplotlib — `30_matplotlib_plot.py`
+
+## Requirements
+Install the required packages with:
+
+```bash
+python -m pip install numpy pandas matplotlib
+```
+
+## Run
+Use Python 3. For example:
+
+```bash
+python 24_json_complex_object.py
+```
+
+Program 24 asks for a JSON string. Programs 25–30 use the packages listed above.

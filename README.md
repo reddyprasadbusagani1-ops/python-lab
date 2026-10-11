@@ -1,11 +1,21 @@
-# Unit 2 — Functions, Strings, and Lists
+# Python Lab — Unit 3
 
-Programs 07–12:
-- 07: Function with multiple return values
-- 08: Function using default arguments
-- 09: String length without using a length function
-- 10: Check whether a substring is present
-- 11: List addition, insertion, and slicing
-- 12: Five built-in functions on a list
+This folder contains the Unit 3 Python lab programs (Programs 13–17).
 
-Run a program from this folder with `python filename.py`.
+## Programs
+
+13. Create and concatenate tuples — `13_tuples.py`
+14. Count vowels without control flow — `14_count_vowels.py`
+15. Check whether a key exists in a dictionary — `15_dictionary_key.py`
+16. Add a new key-value pair to a dictionary — `16_add_dictionary_item.py`
+17. Sum all dictionary items — `17_dictionary_sum.py`
+
+## How to run
+
+Open a terminal in this folder and run a program with Python, for example:
+
+```bash
+python 13_tuples.py
+```
+
+Programs 14–16 ask for user input. Use Python 3.
